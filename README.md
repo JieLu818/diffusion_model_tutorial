@@ -2,7 +2,7 @@
 Starter of diffusion model.
 
 
-##文件结构
+## 文件结构
 
 ```
 
